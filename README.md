@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blackpanther-007
+- 👋 Hi, I’m @Vedant
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Aerospace Engineering
 
