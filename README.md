@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vedant
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Aerospace Engineering
+- 🌱 I’m currently pursing Aerospace Engineering from IIT Madras 
 
 
 <!---
